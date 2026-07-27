@@ -121,27 +121,7 @@ Future Improvements
 • Deploy dashboards to cloud platforms.
 • Add predictive analytics and advanced customer segmentation.
 
-Repository Structure
 
-Intelligent-Customer-Retention-Dashboard
-
-data/
-    Customer dataset
-    Quarantine dataset
-
-notebooks/
-    Python data cleaning notebook
-
-sql/
-    SQL analytical queries
-
-tableau/
-    Tableau dashboard workbook
-    Dashboard screenshot
-
-README.md
-
-requirements.txt
 
 Conclusion
 
